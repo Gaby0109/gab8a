@@ -1,0 +1,19 @@
+body{
+background-color: rgb(211, 198, 172);
+ color: #ffffff;
+    margin: 20;
+    text-align: center;
+  font-family:cursive
+   font-family: 'Roboto', sans-serif;
+}
+hr{
+  color: rgb(13, 30, 31);
+  height: 10;
+}
+h1{
+    color: #df2525;
+    font-size: 5.625;
+    margin: 50px auto 0 auto;
+    font-family: cursive
+
+}
